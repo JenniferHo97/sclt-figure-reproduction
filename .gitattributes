@@ -1,0 +1,3 @@
+# Preserve frozen input bytes for SHA256 checks on every platform.
+# Git may still show text diffs; this disables automatic newline conversion.
+* -text

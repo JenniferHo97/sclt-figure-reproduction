@@ -1,7 +1,12 @@
 {
   "schema": "sclt-figure-release-files-v1",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "files": [
+    {
+      "path": ".gitattributes",
+      "bytes": 152,
+      "sha256": "945375daa5928eb20027abe09e047e45307ee2d6e0ffc026897ed2be12e989e4"
+    },
     {
       "path": ".gitignore",
       "bytes": 84,
@@ -10,12 +15,12 @@
     {
       "path": ".zenodo.json",
       "bytes": 1497,
-      "sha256": "7eb21e2cdd5e33ee15a719c6778ef08cff0f651f16acafc926e2fec952865119"
+      "sha256": "4fa25281c0eefb94c734ff670720fb85f2c121b661d66c3e4585a06fcbb16fc3"
     },
     {
       "path": "CITATION.cff",
       "bytes": 1142,
-      "sha256": "0564b23d52d986907363c8633f2511e1ba7b586b94820461a90c316db797ba68"
+      "sha256": "d0970e6ace12842cd02db93fef8c0373a7daf7a16eba5a150436286f13192510"
     },
     {
       "path": "data/causal_all.json",
@@ -285,7 +290,7 @@
     {
       "path": "VERSION",
       "bytes": 7,
-      "sha256": "4ca8bbd3c595ee306226c6996b32b8d47a900217c55a7ed0cfc868ee444f34f1"
+      "sha256": "f34306bb50e2d2ec59c788b9013c5ac682ef7f7f69345a3e957e38c0b6ba2fdd"
     }
   ],
   "scope": "Public figure reproduction payload; manifest excludes itself and generated outputs"

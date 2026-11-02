@@ -2,7 +2,7 @@ cff-version: 1.2.0
 message: "If you use this figure reproduction software, cite this fixed software version."
 type: software
 title: "sCLT: reproducible paper figures"
-version: 1.0.0
+version: 1.0.1
 date-released: 2026-11-02
 authors:
   - family-names: He
