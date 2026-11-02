@@ -142,11 +142,6 @@
       "sha256": "891796cf6eb6df9d5c5ef70cb7ff41e9b3f85c2ac0d182853922fc1e2501f8db"
     },
     {
-      "path": "figures/editable/Figure1_method.drawio",
-      "bytes": 16831,
-      "sha256": "a0f0be243cdf7f38080b0ccf1341419d403d55827ea0aa85ee0a50600c2f0e93"
-    },
-    {
       "path": "figures/reference/Extended_Data_Figure_1__F_validation.png",
       "bytes": 456954,
       "sha256": "921b00d5906d5e59385eb038e3598b5e3e3190389b9c72551b5d353186fc4881"

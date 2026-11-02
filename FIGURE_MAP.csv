@@ -1,5 +1,5 @@
 figure,renderer,inputs,mode,scope
-1,manual draw.io,figures/editable/Figure1_method.drawio;figures/reference/Main_Figure_1__methods.png,reference only,Exact PNG preserved; automatic equivalent export unverified
+1,reference image,figures/reference/Main_Figure_1__methods.png,reference only,Preserved manuscript PNG image
 2,scripts/renderers/draw_figure2.py,data/figure2_graph.json;data/figure2_native_response.json,automatic,Four measured features; all 222 embedding positions; 17 drawn edges; native target and random intervention curves
 3,scripts/renderers/make_fig1b.py,data/q0005_feature_labels_cat.json;data/q0005_base_graph.json;data/q0005_after_graph.json;inline historical counts,automatic,Panel a q0005; b 115 baseline errors; c q0177 single case; historical labels need README scope
 4,scripts/renderers/make_fig_clt_multi.py,data/clt_results.json;inline reference metrics,automatic,Frozen reconstruction and dictionary capacity aggregates

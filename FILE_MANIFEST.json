@@ -1,6 +1,6 @@
 {
   "schema": "sclt-figure-release-files-v1",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "files": [
     {
       "path": ".gitattributes",
@@ -14,13 +14,13 @@
     },
     {
       "path": ".zenodo.json",
-      "bytes": 1497,
-      "sha256": "4fa25281c0eefb94c734ff670720fb85f2c121b661d66c3e4585a06fcbb16fc3"
+      "bytes": 1517,
+      "sha256": "43bc69b2ddab7b6fe0de37a3a9a0e3c23375d1fcbc9c9dbd95ad3d85c2b333ce"
     },
     {
       "path": "CITATION.cff",
-      "bytes": 1142,
-      "sha256": "d0970e6ace12842cd02db93fef8c0373a7daf7a16eba5a150436286f13192510"
+      "bytes": 1117,
+      "sha256": "7f683b731db24901c9814c665404286efb15abb01c99df99ac25ea4f58fa6cc4"
     },
     {
       "path": "data/causal_all.json",
@@ -64,8 +64,8 @@
     },
     {
       "path": "data/PLOT_MANIFEST.json",
-      "bytes": 7428,
-      "sha256": "5cf8f3126525d0e72aeebdd17cff9310fc95e0a31e5755c4b63820959bd02e0f"
+      "bytes": 7249,
+      "sha256": "4a7ca14a793f687fbcf6badb9dbc2967253318a3159f950f4afa28103ac5825b"
     },
     {
       "path": "data/q0005_after_graph.json",
@@ -94,13 +94,8 @@
     },
     {
       "path": "FIGURE_MAP.csv",
-      "bytes": 1904,
-      "sha256": "73e3ac14af6e2fce1db1a4aaeb1e3140012f219f3249d752af1f67fa0aa9d79b"
-    },
-    {
-      "path": "figures/editable/Figure1_method.drawio",
-      "bytes": 16831,
-      "sha256": "a0f0be243cdf7f38080b0ccf1341419d403d55827ea0aa85ee0a50600c2f0e93"
+      "bytes": 1837,
+      "sha256": "e868bd534b50cb64f80a56ac1fb9692e4aea08eca3a5996ff2d9ff5b313f44bc"
     },
     {
       "path": "figures/reference/Extended_Data_Figure_1__F_validation.png",
@@ -169,13 +164,13 @@
     },
     {
       "path": "NOTICE.md",
-      "bytes": 661,
-      "sha256": "83d04b01df8d5d960cb962448512a3754558d11041e9bfaaca3084d2dbb31aaf"
+      "bytes": 702,
+      "sha256": "468e51fdedf374ef55c8a25da45c53758779b8518e64f1ab4d99e1c82d213a35"
     },
     {
       "path": "README.md",
-      "bytes": 6285,
-      "sha256": "09f500df92cdb909c1f219c6c74ab9cde9f5bcf7a13a9c512752e8150614de79"
+      "bytes": 6243,
+      "sha256": "ca655d3711545ee453356ac7c68bcaf3eff27b65646f04c6020b548949e8f548"
     },
     {
       "path": "render_figures.py",
@@ -279,8 +274,8 @@
     },
     {
       "path": "verification/independent_review.json",
-      "bytes": 3387,
-      "sha256": "95ef9befed3d81341344291ef81a4e8c4ccd582ab8be806f4d7712dfa1092ec7"
+      "bytes": 2714,
+      "sha256": "92d4f9a61067b2ec96e4a6f720d3c7bbe1c6653c8e8c1cfeb55d04eefefed214"
     },
     {
       "path": "verification/plot_reproduction_report.json",
@@ -290,7 +285,7 @@
     {
       "path": "VERSION",
       "bytes": 7,
-      "sha256": "f34306bb50e2d2ec59c788b9013c5ac682ef7f7f69345a3e957e38c0b6ba2fdd"
+      "sha256": "0dc8489f55b24f8c7f12619f9e5e25a3eab2ce5cce7e057413d9c27c26b7d675"
     }
   ],
   "scope": "Public figure reproduction payload; manifest excludes itself and generated outputs"

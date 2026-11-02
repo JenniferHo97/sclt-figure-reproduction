@@ -2,7 +2,7 @@ cff-version: 1.2.0
 message: "If you use this figure reproduction software, cite this fixed software version."
 type: software
 title: "sCLT: reproducible paper figures"
-version: 1.0.1
+version: 1.0.2
 date-released: 2026-11-02
 authors:
   - family-names: He
@@ -22,8 +22,8 @@ abstract: >-
   Standalone CPU plotting code and frozen numerical and graph-layout inputs for
   figures accompanying Subspace transcoders audit and repair language models on
   biomedical tasks. Includes automatic redraw of Main Figures 2–6 and Extended
-  Data Figures 1–6, and editable source with a reference export for the manual
-  Main Figure 1 schematic. Model training and inference are separate workflows.
+  Data Figures 1–6, and a reference PNG image for the Main Figure 1 schematic.
+  Model training and inference are separate workflows.
 keywords:
   - sCLT
   - subspace transcoders

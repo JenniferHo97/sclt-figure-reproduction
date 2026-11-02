@@ -2,7 +2,7 @@
 
 CPU plotting code and frozen numerical inputs for six main figures and six
 Extended Data figures in the sCLT manuscript. Eleven figures can be redrawn;
-Figure 1 is an editable manual diagram with the exact manuscript PNG preserved.
+Figure 1 is supplied as the preserved manuscript PNG reference image.
 The figure snapshot is the 2026-10-29 submission candidate, packaged on
 2026-11-02. Some renderer filenames retain historical numbering;
 `FIGURE_MAP.csv` gives the current figure numbering.
@@ -37,7 +37,7 @@ GPU, model service, API credentials or network access are needed to draw figures
 `requirements-lock.txt` also pins the transitive dependencies from the accepted
 fresh installation. On 2 November 2026, a new virtual environment was installed
 from the direct requirements and all eleven automatic figures were redrawn.
-All twelve reference comparisons, including the manual Figure 1 reference,
+All twelve reference comparisons, including the Figure 1 reference image,
 matched at the pixel level under the recorded Windows fonts. The acceptance
 record is `verification/clean_install_acceptance.json`.
 The local CPU acceptance and reference comparisons are recorded in
@@ -67,7 +67,7 @@ python render_figures.py --only 2 --languages en zh --cjk-font /path/to/cjk-font
 - `data/PLOT_MANIFEST.json`: integrity hashes of the released plotting payload.
 - `FIGURE_MAP.csv`: figure number, renderer, inputs and evidence scope.
 - `figures/reference/`: preserved manuscript figures used for comparison.
-- `figures/editable/Figure1_method.drawio`: recovered editable schematic.
+- Main Figure 1 is provided only as a reference PNG image.
 
 ## What is reproduced
 
@@ -103,8 +103,8 @@ Important interpretation details accompany the unchanged historical values:
   transfer; omitted model results are not synthesized.
   ED6's Phi-4 endpoints can be redrawn from the frozen summary, while their
   original item-level source outputs have not been recovered.
-- Figure 1 is copied from the preserved manuscript PNG. The recovered draw.io
-  file is editable; a pixel-equivalent automatic export has not been verified.
+- Figure 1 is copied from the preserved manuscript PNG as a reference image.
+  The hand-edited schematic source is not part of this release.
 
 Model/dataset source links and the complete manuscript methods should be read
 alongside these plotting inputs. The repository's code licence does not change
