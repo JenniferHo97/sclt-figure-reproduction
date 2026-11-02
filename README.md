@@ -7,6 +7,10 @@ The figure snapshot is the 2026-10-29 submission candidate, packaged on
 2026-11-02. Some renderer filenames retain historical numbering;
 `FIGURE_MAP.csv` gives the current figure numbering.
 
+Version 1.0.3 updates the release metadata after enabling Zenodo preservation.
+Scientific values, plotting inputs and automatic rendering logic are unchanged
+from version 1.0.2. Figure 1 remains a reference PNG only.
+
 ## Quick start
 
 Python 3.11 or newer is recommended. The release was exercised with Python 3.13

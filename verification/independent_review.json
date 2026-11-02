@@ -1,26 +1,26 @@
 {
-  "schema": "independent-figure1-source-removal-review-v1",
+  "schema": "independent-release-metadata-review-v1",
   "date_local": "2026-11-02",
-  "version": "1.0.2",
-  "status": "PASS_CURRENT_PUBLIC_PAYLOAD_NO_FIGURE1_EDITABLE_SOURCE",
+  "version": "1.0.3",
+  "status": "PASS_METADATA_ONLY_CURRENT_PUBLIC_PAYLOAD",
   "repository": ".",
-  "scope": [
-    "Current public payload files and metadata",
-    "Frozen plotting input comparison with v1.0.1",
-    "Independent CPU integrity/numerical gate",
-    "Independent Figure1 reference-copy execution",
-    "PNG editor-metadata and PDF attachment checks"
+  "scope": "Metadata-only release after enabling Zenodo integration; no scientific or rendering changes.",
+  "base_version": "1.0.2",
+  "base_commit": "cd053ebf99ab161b80ddc534a4dce65e1baf30d5",
+  "metadata_files_changed": [
+    ".zenodo.json",
+    "CITATION.cff",
+    "README.md",
+    "VERSION"
   ],
   "checks": {
+    "plot_payload_files": 40,
+    "all_plot_payload_bytes_and_SHA_unchanged": true,
+    "PLOT_MANIFEST_byte_unchanged": true,
+    "Figure1_reference_PNG_byte_unchanged": true,
+    "Figure1_reference_PNG_SHA256": "096e04ee1ce3e0b18906c99b809f25de7d2bd78b237c4980e48be14a67c3a77d",
     "drawio_files": [],
-    "inline_mxfile_or_mxGraphModel_files": [],
-    "Figure1_PNG_embedded_text_editor_chunks": false,
-    "Figure1_PNG_byte_identical_to_v1_0_1": true,
-    "Figure1_PNG_copy_byte_identical": true,
-    "removed_plot_payload_paths": [
-      "figures/editable/Figure1_method.drawio"
-    ],
-    "remaining_plot_payload_SHA_unchanged": 40,
+    "metadata_versions_consistent": true,
     "CPU_input_gate": {
       "status": "PASS",
       "plot_files": 40,
@@ -33,42 +33,17 @@
         "scipy": true,
         "fitz": true
       }
-    },
-    "Figure1_execution": "PRESERVED_REFERENCE_ONLY",
-    "reference_PDF_attachment_checks": [
-      {
-        "path": "figures/reference/Main_Figure_2__figure2_horizontal_en.pdf",
-        "embedded_files": 0
-      },
-      {
-        "path": "figures/reference/Main_Figure_3__F1b.pdf",
-        "embedded_files": 0
-      },
-      {
-        "path": "figures/reference/Main_Figure_4__F_clt.pdf",
-        "embedded_files": 0
-      },
-      {
-        "path": "figures/reference/Main_Figure_5__F_causal.pdf",
-        "embedded_files": 0
-      },
-      {
-        "path": "figures/reference/Main_Figure_6__Figure6_nature_style.pdf",
-        "embedded_files": 0
-      }
-    ]
+    }
   },
-  "metadata_review": {
-    "README": "Figure1 reference image only",
-    "FIGURE_MAP": "Reference PNG path; no editable-source path",
-    "CITATION_and_Zenodo": "version1.0.2 and reference-only scope",
-    "source_notes": "No provided Figure1 editable-source row",
-    "global_FILE_MANIFEST": "Root finalizer must regenerate after this review; old manifest is not the final release manifest"
+  "prior_independent_review": {
+    "version": "1.0.2",
+    "sha256": "92d4f9a61067b2ec96e4a6f720d3c7bbe1c6653c8e8c1cfeb55d04eefefed214",
+    "status": "PASS_CURRENT_PUBLIC_PAYLOAD_NO_FIGURE1_EDITABLE_SOURCE",
+    "retained_unchanged": true,
+    "scope_carried_forward": "Figure1 reference-only, PNG editor-metadata checks, PDF attachment checks and prior copy test. Their inputs are byte-identical; these checks were not rerun here."
   },
-  "public_withdrawal_boundary": "This review does not assert removal from GitHub history, old tags/releases, prior downloads or third-party caches. Root must separately verify reachable public history and release assets. Local private originals may remain.",
-  "GPU_model_API_calls": 0,
-  "evidence": [
-    "INDEPENDENT_INITIAL_EXPOSURE_AUDIT.json",
-    "independent_figure1_copy/RENDER_REPORT.json"
-  ]
+  "full_11_figure_redraw_rerun_this_metadata_review": false,
+  "public_global_manifest": "Root finalizer must regenerate after this review.",
+  "external_publication_or_DOI_verified_by_this_review": false,
+  "GPU_model_network_calls": 0
 }

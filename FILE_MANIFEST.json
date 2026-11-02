@@ -1,6 +1,6 @@
 {
   "schema": "sclt-figure-release-files-v1",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "files": [
     {
       "path": ".gitattributes",
@@ -15,12 +15,12 @@
     {
       "path": ".zenodo.json",
       "bytes": 1517,
-      "sha256": "43bc69b2ddab7b6fe0de37a3a9a0e3c23375d1fcbc9c9dbd95ad3d85c2b333ce"
+      "sha256": "a5cd474b67259d0a6e459ba5bfd2da2fbb1669c6ffce3ecc54bd82b745fa30f1"
     },
     {
       "path": "CITATION.cff",
       "bytes": 1117,
-      "sha256": "7f683b731db24901c9814c665404286efb15abb01c99df99ac25ea4f58fa6cc4"
+      "sha256": "7cdeb794433e3d7902740b8180261faeceb80982dff8faf26669ff7ed0f3d118"
     },
     {
       "path": "data/causal_all.json",
@@ -169,8 +169,8 @@
     },
     {
       "path": "README.md",
-      "bytes": 6243,
-      "sha256": "ca655d3711545ee453356ac7c68bcaf3eff27b65646f04c6020b548949e8f548"
+      "bytes": 6461,
+      "sha256": "057f693e89c0a5dc940b474836a601708ffed0ded33c51e4fc5dbada42dc01eb"
     },
     {
       "path": "render_figures.py",
@@ -274,8 +274,8 @@
     },
     {
       "path": "verification/independent_review.json",
-      "bytes": 2714,
-      "sha256": "92d4f9a61067b2ec96e4a6f720d3c7bbe1c6653c8e8c1cfeb55d04eefefed214"
+      "bytes": 1897,
+      "sha256": "1b9e3791566ac387629d22f6a6034784b9245dcefae37e793d7c35fb2e1d826e"
     },
     {
       "path": "verification/plot_reproduction_report.json",
@@ -285,7 +285,7 @@
     {
       "path": "VERSION",
       "bytes": 7,
-      "sha256": "0dc8489f55b24f8c7f12619f9e5e25a3eab2ce5cce7e057413d9c27c26b7d675"
+      "sha256": "fc1c281f1d0879bb81d24496eb278296d469a4c7d78565b035a14b51eab620b3"
     }
   ],
   "scope": "Public figure reproduction payload; manifest excludes itself and generated outputs"
