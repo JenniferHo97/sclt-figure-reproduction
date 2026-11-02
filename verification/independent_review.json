@@ -1,0 +1,72 @@
+{
+  "schema": "independent-public-figure-review-v1",
+  "date_local": "2026-11-02",
+  "status": "PASS_PLOTTING_CONTENT_AND_BOUNDED_REPRODUCIBILITY_REVIEW",
+  "repository": ".",
+  "reviewed_scope": [
+    "Content minimization and bounded credential/private-path screen",
+    "README and figure map scientific claims and historical evidence limits",
+    "Independent CPU --check execution",
+    "Independent redraw of modified Figures 2 and 6",
+    "Independent comparison of minimal public data against archived measured values"
+  ],
+  "checks": {
+    "cpu_check_status": "PASS",
+    "plot_payload_files": 41,
+    "Figure6_run_values": 576,
+    "Figure6_mean_sampleSD_groups": 192,
+    "Figure6_edited_plotted_series": 96,
+    "independent_rendered_figures": [
+      "2",
+      "6"
+    ],
+    "independent_PDF_144dpi_pixel_matches": [
+      "2",
+      "6"
+    ],
+    "minimal_public_data_preserve_archived_values": true,
+    "Figure2_all_embedding_positions_retained": 222,
+    "new_synthetic_edges_added": false,
+    "bounded_secret_pattern_hits": 0,
+    "private_user_server_path_pattern_hits": 0,
+    "full_prompt_or_training_example_field_hits": 0,
+    "current_stage_files_scanned": 52,
+    "current_stage_bytes_scanned": 2996025
+  },
+  "builder_validation_reviewed": {
+    "report": "repository/verification/plot_reproduction_report.json",
+    "status": "PASS_ALL_FROZEN_REFERENCE_COMPARISONS",
+    "automatic_renderers_completed": 11,
+    "manual_reference_copies": 1,
+    "limits": "This all-figure run is builder evidence. Reviewer independently reran Figures 2 and 6 and the numerical/integrity check."
+  },
+  "corrected_during_review": [
+    "Figure3 source docstring and notes distinguish q0005, 115 baseline-error records and the separate q0177 panel-c record",
+    "Figure2 uses English by default and does not distribute proprietary fonts",
+    "Chinese-only CLI use produces an explicit instruction to include English",
+    "ED5 title describes task-native repair rather than transfer",
+    "Figure2 verification wording refers to preserved public plot inputs and measured weights, not unchanged full archived graph bytes"
+  ],
+  "retained_limits": [
+    "Figure1 editable diagram is included, while exact automatic export equivalence is unverified; current manuscript PNG is preserved",
+    "Replotting from frozen data does not retrain models or replay the original GPU experiments",
+    "Fresh dependency installation was not exercised in this review; the existing pinned Windows environment was used",
+    "Exact pixel parity can depend on installed fonts",
+    "Historical run/adapter identity and ED6 Phi4 source gaps remain disclosed; no missing experiment was synthesized"
+  ],
+  "external_publication_status": "Not performed or verified by this reviewer",
+  "outside_this_review": [
+    "Authentication and ownership of GitHub/Zenodo accounts",
+    "Final factual copyright attribution and licence application",
+    "DOI registration, repository upload and final public links",
+    "Git history or files introduced after this snapshot"
+  ],
+  "evidence": [
+    "review/PRE_RELEASE_AUDIT.json",
+    "review/CONTENT_SCAN.json",
+    "review/DATA_PARITY_REVIEW.json",
+    "review/INDEPENDENT_RENDER_PARITY.json",
+    "review/independent_render/RENDER_REPORT.json"
+  ],
+  "GPU_model_API_calls": 0
+}

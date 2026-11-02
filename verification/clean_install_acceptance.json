@@ -1,0 +1,89 @@
+{
+  "status": "PASS",
+  "date_local": "2026-11-02",
+  "fresh_virtual_environment": true,
+  "pip_check": "PASS",
+  "install_command": "python -m pip install -r requirements.txt",
+  "render_command": "python render_figures.py --output build",
+  "dependencies_lock": "requirements-lock.txt",
+  "automatic_figures_completed": 11,
+  "manual_references_preserved": 1,
+  "input_gate": {
+    "status": "PASS",
+    "plot_files": 41,
+    "figure6_run_values": 576,
+    "figure6_mean_sd_groups": 192,
+    "figure6_plotted_series_checked": 96,
+    "dependencies": {
+      "numpy": true,
+      "matplotlib": true,
+      "scipy": true,
+      "fitz": true
+    }
+  },
+  "reference_comparisons": [
+    {
+      "figure": "1",
+      "criterion": "PNG decoded pixels",
+      "match": true
+    },
+    {
+      "figure": "2",
+      "criterion": "PDF pixels at 144 dpi",
+      "match": true
+    },
+    {
+      "figure": "3",
+      "criterion": "PDF pixels at 144 dpi",
+      "match": true
+    },
+    {
+      "figure": "4",
+      "criterion": "PDF pixels at 144 dpi",
+      "match": true
+    },
+    {
+      "figure": "5",
+      "criterion": "PDF pixels at 144 dpi",
+      "match": true
+    },
+    {
+      "figure": "6",
+      "criterion": "PDF pixels at 144 dpi",
+      "match": true
+    },
+    {
+      "figure": "ED1",
+      "criterion": "PNG decoded pixels",
+      "match": true
+    },
+    {
+      "figure": "ED2",
+      "criterion": "PNG decoded pixels",
+      "match": true
+    },
+    {
+      "figure": "ED3",
+      "criterion": "PNG decoded pixels",
+      "match": true
+    },
+    {
+      "figure": "ED4",
+      "criterion": "PNG decoded pixels",
+      "match": true
+    },
+    {
+      "figure": "ED5",
+      "criterion": "PNG decoded pixels",
+      "match": true
+    },
+    {
+      "figure": "ED6",
+      "criterion": "PNG decoded pixels",
+      "match": true
+    }
+  ],
+  "platform": "Windows with the original installed fonts",
+  "other_platforms": "Font substitution may change typography while numerical inputs remain fixed",
+  "GPU_model_API_calls": 0
+}

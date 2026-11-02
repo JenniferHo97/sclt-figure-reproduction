@@ -1,0 +1,13 @@
+figure,renderer,inputs,mode,scope
+1,manual draw.io,figures/editable/Figure1_method.drawio;figures/reference/Main_Figure_1__methods.png,reference only,Exact PNG preserved; automatic equivalent export unverified
+2,scripts/renderers/draw_figure2.py,data/figure2_graph.json;data/figure2_native_response.json,automatic,Four measured features; all 222 embedding positions; 17 drawn edges; native target and random intervention curves
+3,scripts/renderers/make_fig1b.py,data/q0005_feature_labels_cat.json;data/q0005_base_graph.json;data/q0005_after_graph.json;inline historical counts,automatic,Panel a q0005; b 115 baseline errors; c q0177 single case; historical labels need README scope
+4,scripts/renderers/make_fig_clt_multi.py,data/clt_results.json;inline reference metrics,automatic,Frozen reconstruction and dictionary capacity aggregates
+5,scripts/renderers/make_fig_causal.py,data/causal_all.json,automatic,Frozen per-model causal-search aggregates
+6,scripts/renderers/make_fig_repair.py;repair_figure_equal_layout.py,data/figure6_plot_data.json;data/figure6_reference.json;data/figure6_runs_numeric.csv;inline parameter formula,automatic,All four edited methods; two cohorts; three archived runs; d/e historical summaries
+ED1,scripts/renderers/make_fig_validation.py,data/validation_results.json,automatic,Frozen causal validation
+ED2,scripts/renderers/make_fig_dissociation.py,inline numerical arrays,automatic,Frozen readout versus edit efficacy
+ED3,scripts/renderers/make_fig_reach.py,inline numerical arrays,automatic,Frozen cross-layer reach
+ED4,scripts/renderers/make_fig_efficiency.py,inline numerical arrays,automatic,Historical 182-item paraphrase evaluation
+ED5,scripts/renderers/make_fig_pubmedqa.py,inline numerical arrays,automatic,Six-model task-native PubMedQA repair summary
+ED6,scripts/renderers/make_fig_mededit.py,data/mededit_summary.json,automatic,Seven-model MedEditBench summary

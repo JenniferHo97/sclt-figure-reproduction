@@ -1,0 +1,32 @@
+cff-version: 1.2.0
+message: "If you use this figure reproduction software, cite this fixed software version."
+type: software
+title: "sCLT: reproducible paper figures"
+version: 1.0.0
+date-released: 2026-11-02
+authors:
+  - family-names: He
+    given-names: Jinwen
+  - family-names: Lu
+    given-names: Yiyang
+  - family-names: Zhu
+    given-names: Qinying
+  - family-names: Zhao
+    given-names: Yue
+  - family-names: Chen
+    given-names: Kai
+repository-code: "https://github.com/JenniferHo97/sclt-figure-reproduction"
+url: "https://github.com/JenniferHo97/sclt-figure-reproduction"
+license: MIT
+abstract: >-
+  Standalone CPU plotting code and frozen numerical and graph-layout inputs for
+  figures accompanying Subspace transcoders audit and repair language models on
+  biomedical tasks. Includes automatic redraw of Main Figures 2–6 and Extended
+  Data Figures 1–6, and editable source with a reference export for the manual
+  Main Figure 1 schematic. Model training and inference are separate workflows.
+keywords:
+  - sCLT
+  - subspace transcoders
+  - mechanistic interpretability
+  - figure reproduction
+  - biomedical language models

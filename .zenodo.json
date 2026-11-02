@@ -1,0 +1,19 @@
+{
+  "title": "sCLT: reproducible paper figures",
+  "upload_type": "software",
+  "description": "<p>Standalone CPU plotting software and frozen numerical and graph-layout inputs for figures accompanying <em>Subspace transcoders audit and repair language models on biomedical tasks</em>.</p><p>Automatic redraw covers Main Figures 2–6 and Extended Data Figures 1–6. Main Figure 1 is supplied as an editable manual schematic with a reference export. The README and figure manifest describe exact commands, data sources, font requirements and verification scope. The archive supports figure redraw from recorded results; model training, model inference and full experimental reruns are separate workflows.</p><p>The MIT licence covers the authors' original source code. Bundled numerical results, figure artwork and external sources are described separately in NOTICE.md. No model weights, full benchmark question corpus, textbook corpus or API credentials are included.</p>",
+  "creators": [
+    {"name": "He, Jinwen"},
+    {"name": "Lu, Yiyang"},
+    {"name": "Zhu, Qinying"},
+    {"name": "Zhao, Yue"},
+    {"name": "Chen, Kai"}
+  ],
+  "version": "1.0.0",
+  "license": "MIT",
+  "access_right": "open",
+  "keywords": ["sCLT", "subspace transcoders", "mechanistic interpretability", "figure reproduction", "biomedical language models"],
+  "related_identifiers": [
+    {"identifier": "https://github.com/JenniferHo97/sclt-figure-reproduction", "relation": "isSupplementTo", "scheme": "url"}
+  ]
+}

@@ -1,0 +1,825 @@
+{
+  "base": [
+    {
+      "layer": 0,
+      "local": 2073,
+      "role": "hero",
+      "infl": 1.0,
+      "cat": "format",
+      "trig": [],
+      "display_label": "‘:’ colon"
+    },
+    {
+      "layer": 22,
+      "local": 121,
+      "role": "",
+      "infl": 0.671,
+      "cat": "format",
+      "trig": [],
+      "display_label": "punctuation"
+    },
+    {
+      "layer": 22,
+      "local": 1103,
+      "role": "",
+      "infl": 0.55,
+      "cat": "other",
+      "trig": [],
+      "display_label": "names"
+    },
+    {
+      "layer": 18,
+      "local": 2436,
+      "role": "",
+      "infl": 0.52,
+      "cat": "format",
+      "trig": [],
+      "display_label": "punctuation"
+    },
+    {
+      "layer": 17,
+      "local": 6537,
+      "role": "",
+      "infl": 0.367,
+      "cat": "format",
+      "trig": [],
+      "display_label": "punctuation"
+    },
+    {
+      "layer": 15,
+      "local": 50,
+      "role": "",
+      "infl": 0.366,
+      "cat": "diffuse",
+      "trig": [],
+      "display_label": "diffuse"
+    },
+    {
+      "layer": 23,
+      "local": 1039,
+      "role": "",
+      "infl": 0.358,
+      "cat": "format",
+      "trig": [],
+      "display_label": "punctuation"
+    },
+    {
+      "layer": 21,
+      "local": 5890,
+      "role": "",
+      "infl": 0.35,
+      "cat": "medical",
+      "trig": [],
+      "display_label": "influenza"
+    },
+    {
+      "layer": 0,
+      "local": 3880,
+      "role": "",
+      "infl": 0.345,
+      "cat": "format",
+      "trig": [],
+      "display_label": "punctuation"
+    },
+    {
+      "layer": 2,
+      "local": 3091,
+      "role": "",
+      "infl": 0.342,
+      "cat": "format",
+      "trig": [],
+      "display_label": "‘Answer’"
+    },
+    {
+      "layer": 23,
+      "local": 644,
+      "role": "",
+      "infl": 0.322,
+      "cat": "format",
+      "trig": [],
+      "display_label": "punctuation"
+    },
+    {
+      "layer": 20,
+      "local": 5032,
+      "role": "",
+      "infl": 0.305,
+      "cat": "medical",
+      "trig": [],
+      "display_label": "hepatitis"
+    },
+    {
+      "layer": 21,
+      "local": 7213,
+      "role": "",
+      "infl": 0.284,
+      "cat": "other",
+      "trig": [],
+      "display_label": "names"
+    },
+    {
+      "layer": 19,
+      "local": 7170,
+      "role": "",
+      "infl": 0.258,
+      "cat": "format",
+      "trig": [],
+      "display_label": "punctuation"
+    },
+    {
+      "layer": 4,
+      "local": 2614,
+      "role": "",
+      "infl": 0.25,
+      "cat": "format",
+      "trig": [],
+      "display_label": "punctuation"
+    },
+    {
+      "layer": 19,
+      "local": 2778,
+      "role": "",
+      "infl": 0.235,
+      "cat": "other",
+      "trig": [],
+      "display_label": "names"
+    },
+    {
+      "layer": 23,
+      "local": 1190,
+      "role": "",
+      "infl": 0.216,
+      "cat": "other",
+      "trig": [],
+      "display_label": "names"
+    },
+    {
+      "layer": 16,
+      "local": 6070,
+      "role": "",
+      "infl": 0.215,
+      "cat": "diffuse",
+      "trig": [],
+      "display_label": "diffuse"
+    },
+    {
+      "layer": 23,
+      "local": 871,
+      "role": "",
+      "infl": 0.213,
+      "cat": "format",
+      "trig": [],
+      "display_label": "punctuation"
+    },
+    {
+      "layer": 23,
+      "local": 128,
+      "role": "",
+      "infl": 0.212,
+      "cat": "other",
+      "trig": [],
+      "display_label": "names"
+    },
+    {
+      "layer": 0,
+      "local": 1191,
+      "role": "",
+      "infl": 0.205,
+      "cat": "format",
+      "trig": [],
+      "display_label": "punctuation"
+    },
+    {
+      "layer": 21,
+      "local": 7611,
+      "role": "",
+      "infl": 0.199,
+      "cat": "other",
+      "trig": [],
+      "display_label": "names"
+    },
+    {
+      "layer": 23,
+      "local": 1344,
+      "role": "",
+      "infl": 0.197,
+      "cat": "other",
+      "trig": [],
+      "display_label": "names"
+    },
+    {
+      "layer": 21,
+      "local": 2297,
+      "role": "",
+      "infl": 0.197,
+      "cat": "diffuse",
+      "trig": [],
+      "display_label": "diffuse"
+    },
+    {
+      "layer": 0,
+      "local": 5867,
+      "role": "",
+      "infl": 0.187,
+      "cat": "format",
+      "trig": [],
+      "display_label": "‘:’ colon"
+    },
+    {
+      "layer": 23,
+      "local": 1076,
+      "role": "",
+      "infl": 0.184,
+      "cat": "other",
+      "trig": [],
+      "display_label": "names"
+    },
+    {
+      "layer": 23,
+      "local": 29,
+      "role": "",
+      "infl": 0.174,
+      "cat": "format",
+      "trig": [],
+      "display_label": "punctuation"
+    },
+    {
+      "layer": 13,
+      "local": 4924,
+      "role": "",
+      "infl": 0.171,
+      "cat": "format",
+      "trig": [],
+      "display_label": "punctuation"
+    },
+    {
+      "layer": 22,
+      "local": 961,
+      "role": "",
+      "infl": 0.169,
+      "cat": "other",
+      "trig": [],
+      "display_label": "names"
+    },
+    {
+      "layer": 23,
+      "local": 494,
+      "role": "",
+      "infl": 0.167,
+      "cat": "other",
+      "trig": [],
+      "display_label": "names"
+    },
+    {
+      "layer": 17,
+      "local": 4081,
+      "role": "",
+      "infl": 0.162,
+      "cat": "format",
+      "trig": [],
+      "display_label": "punctuation"
+    },
+    {
+      "layer": 16,
+      "local": 493,
+      "role": "",
+      "infl": 0.159,
+      "cat": "format",
+      "trig": [],
+      "display_label": "punctuation"
+    },
+    {
+      "layer": 15,
+      "local": 6103,
+      "role": "",
+      "infl": 0.154,
+      "cat": "diffuse",
+      "trig": [],
+      "display_label": "diffuse"
+    },
+    {
+      "layer": 21,
+      "local": 6548,
+      "role": "",
+      "infl": 0.153,
+      "cat": "medical",
+      "trig": [],
+      "display_label": "vitamin"
+    },
+    {
+      "layer": 0,
+      "local": 7931,
+      "role": "",
+      "infl": 0.149,
+      "cat": "other",
+      "trig": [],
+      "display_label": "names"
+    },
+    {
+      "layer": 23,
+      "local": 1272,
+      "role": "",
+      "infl": 0.149,
+      "cat": "other",
+      "trig": [],
+      "display_label": "names"
+    },
+    {
+      "layer": 23,
+      "local": 1241,
+      "role": "",
+      "infl": 0.147,
+      "cat": "other",
+      "trig": [],
+      "display_label": "names"
+    },
+    {
+      "layer": 15,
+      "local": 5046,
+      "role": "",
+      "infl": 0.144,
+      "cat": "diffuse",
+      "trig": [],
+      "display_label": "diffuse"
+    },
+    {
+      "layer": 23,
+      "local": 624,
+      "role": "",
+      "infl": 0.14,
+      "cat": "format",
+      "trig": [],
+      "display_label": "punctuation"
+    },
+    {
+      "layer": 0,
+      "local": 1367,
+      "role": "",
+      "infl": 0.137,
+      "cat": "format",
+      "trig": [],
+      "display_label": "punctuation"
+    },
+    {
+      "layer": 22,
+      "local": 155,
+      "role": "",
+      "infl": 0.134,
+      "cat": "other",
+      "trig": [],
+      "display_label": "names"
+    },
+    {
+      "layer": 21,
+      "local": 1592,
+      "role": "",
+      "infl": 0.134,
+      "cat": "other",
+      "trig": [],
+      "display_label": "names"
+    },
+    {
+      "layer": 1,
+      "local": 6065,
+      "role": "",
+      "infl": 0.13,
+      "cat": "format",
+      "trig": [],
+      "display_label": "punctuation"
+    },
+    {
+      "layer": 14,
+      "local": 435,
+      "role": "",
+      "infl": 0.128,
+      "cat": "format",
+      "trig": [],
+      "display_label": "punctuation"
+    },
+    {
+      "layer": 20,
+      "local": 491,
+      "role": "",
+      "infl": 0.126,
+      "cat": "medical",
+      "trig": [],
+      "display_label": "hepatitis"
+    },
+    {
+      "layer": 16,
+      "local": 2826,
+      "role": "thief",
+      "infl": 0.113,
+      "cat": "format",
+      "trig": [],
+      "display_label": "shortcut"
+    }
+  ],
+  "after": [
+    {
+      "layer": 22,
+      "local": 1037,
+      "role": "",
+      "infl": 1.0,
+      "cat": "medical",
+      "trig": [],
+      "display_label": "enzyme"
+    },
+    {
+      "layer": 0,
+      "local": 2073,
+      "role": "hero",
+      "infl": 0.705,
+      "cat": "format",
+      "trig": [],
+      "display_label": "‘:’ colon"
+    },
+    {
+      "layer": 20,
+      "local": 5032,
+      "role": "",
+      "infl": 0.504,
+      "cat": "medical",
+      "trig": [],
+      "display_label": "hepatitis"
+    },
+    {
+      "layer": 17,
+      "local": 6537,
+      "role": "",
+      "infl": 0.488,
+      "cat": "format",
+      "trig": [],
+      "display_label": "punctuation"
+    },
+    {
+      "layer": 22,
+      "local": 1103,
+      "role": "",
+      "infl": 0.426,
+      "cat": "other",
+      "trig": [],
+      "display_label": "names"
+    },
+    {
+      "layer": 23,
+      "local": 1039,
+      "role": "",
+      "infl": 0.41,
+      "cat": "format",
+      "trig": [],
+      "display_label": "punctuation"
+    },
+    {
+      "layer": 22,
+      "local": 121,
+      "role": "",
+      "infl": 0.41,
+      "cat": "format",
+      "trig": [],
+      "display_label": "punctuation"
+    },
+    {
+      "layer": 21,
+      "local": 5890,
+      "role": "",
+      "infl": 0.384,
+      "cat": "medical",
+      "trig": [],
+      "display_label": "influenza"
+    },
+    {
+      "layer": 4,
+      "local": 2614,
+      "role": "",
+      "infl": 0.374,
+      "cat": "format",
+      "trig": [],
+      "display_label": "punctuation"
+    },
+    {
+      "layer": 20,
+      "local": 491,
+      "role": "",
+      "infl": 0.359,
+      "cat": "medical",
+      "trig": [],
+      "display_label": "hepatitis"
+    },
+    {
+      "layer": 18,
+      "local": 2436,
+      "role": "",
+      "infl": 0.3,
+      "cat": "format",
+      "trig": [],
+      "display_label": "punctuation"
+    },
+    {
+      "layer": 13,
+      "local": 4924,
+      "role": "",
+      "infl": 0.286,
+      "cat": "format",
+      "trig": [],
+      "display_label": "punctuation"
+    },
+    {
+      "layer": 21,
+      "local": 7213,
+      "role": "",
+      "infl": 0.264,
+      "cat": "other",
+      "trig": [],
+      "display_label": "names"
+    },
+    {
+      "layer": 19,
+      "local": 7170,
+      "role": "",
+      "infl": 0.263,
+      "cat": "format",
+      "trig": [],
+      "display_label": "punctuation"
+    },
+    {
+      "layer": 0,
+      "local": 3880,
+      "role": "",
+      "infl": 0.243,
+      "cat": "format",
+      "trig": [],
+      "display_label": "punctuation"
+    },
+    {
+      "layer": 21,
+      "local": 7611,
+      "role": "",
+      "infl": 0.236,
+      "cat": "other",
+      "trig": [],
+      "display_label": "names"
+    },
+    {
+      "layer": 6,
+      "local": 4954,
+      "role": "",
+      "infl": 0.227,
+      "cat": "other",
+      "trig": [],
+      "display_label": "names"
+    },
+    {
+      "layer": 23,
+      "local": 491,
+      "role": "",
+      "infl": 0.21,
+      "cat": "other",
+      "trig": [],
+      "display_label": "names"
+    },
+    {
+      "layer": 2,
+      "local": 3091,
+      "role": "",
+      "infl": 0.199,
+      "cat": "format",
+      "trig": [],
+      "display_label": "‘Answer’"
+    },
+    {
+      "layer": 23,
+      "local": 1284,
+      "role": "",
+      "infl": 0.187,
+      "cat": "other",
+      "trig": [],
+      "display_label": "names"
+    },
+    {
+      "layer": 16,
+      "local": 1694,
+      "role": "",
+      "infl": 0.186,
+      "cat": "diffuse",
+      "trig": [],
+      "display_label": "diffuse"
+    },
+    {
+      "layer": 19,
+      "local": 4683,
+      "role": "",
+      "infl": 0.185,
+      "cat": "other",
+      "trig": [],
+      "display_label": "names"
+    },
+    {
+      "layer": 21,
+      "local": 6548,
+      "role": "",
+      "infl": 0.185,
+      "cat": "medical",
+      "trig": [],
+      "display_label": "vitamin"
+    },
+    {
+      "layer": 22,
+      "local": 961,
+      "role": "",
+      "infl": 0.184,
+      "cat": "other",
+      "trig": [],
+      "display_label": "names"
+    },
+    {
+      "layer": 23,
+      "local": 871,
+      "role": "",
+      "infl": 0.173,
+      "cat": "format",
+      "trig": [],
+      "display_label": "punctuation"
+    },
+    {
+      "layer": 15,
+      "local": 3997,
+      "role": "",
+      "infl": 0.166,
+      "cat": "format",
+      "trig": [],
+      "display_label": "punctuation"
+    },
+    {
+      "layer": 23,
+      "local": 1241,
+      "role": "",
+      "infl": 0.165,
+      "cat": "other",
+      "trig": [],
+      "display_label": "names"
+    },
+    {
+      "layer": 23,
+      "local": 29,
+      "role": "",
+      "infl": 0.163,
+      "cat": "format",
+      "trig": [],
+      "display_label": "punctuation"
+    },
+    {
+      "layer": 21,
+      "local": 1592,
+      "role": "",
+      "infl": 0.159,
+      "cat": "other",
+      "trig": [],
+      "display_label": "names"
+    },
+    {
+      "layer": 23,
+      "local": 1344,
+      "role": "",
+      "infl": 0.158,
+      "cat": "other",
+      "trig": [],
+      "display_label": "names"
+    },
+    {
+      "layer": 0,
+      "local": 1191,
+      "role": "",
+      "infl": 0.145,
+      "cat": "format",
+      "trig": [],
+      "display_label": "punctuation"
+    },
+    {
+      "layer": 4,
+      "local": 3853,
+      "role": "",
+      "infl": 0.134,
+      "cat": "other",
+      "trig": [],
+      "display_label": "names"
+    },
+    {
+      "layer": 0,
+      "local": 5867,
+      "role": "",
+      "infl": 0.132,
+      "cat": "format",
+      "trig": [],
+      "display_label": "‘:’ colon"
+    },
+    {
+      "layer": 4,
+      "local": 2226,
+      "role": "",
+      "infl": 0.126,
+      "cat": "format",
+      "trig": [],
+      "display_label": "punctuation"
+    },
+    {
+      "layer": 23,
+      "local": 494,
+      "role": "",
+      "infl": 0.126,
+      "cat": "other",
+      "trig": [],
+      "display_label": "names"
+    },
+    {
+      "layer": 23,
+      "local": 1076,
+      "role": "",
+      "infl": 0.121,
+      "cat": "other",
+      "trig": [],
+      "display_label": "names"
+    },
+    {
+      "layer": 18,
+      "local": 4266,
+      "role": "",
+      "infl": 0.12,
+      "cat": "format",
+      "trig": [],
+      "display_label": "punctuation"
+    },
+    {
+      "layer": 19,
+      "local": 3743,
+      "role": "",
+      "infl": 0.118,
+      "cat": "format",
+      "trig": [],
+      "display_label": "punctuation"
+    },
+    {
+      "layer": 23,
+      "local": 640,
+      "role": "",
+      "infl": 0.113,
+      "cat": "format",
+      "trig": [],
+      "display_label": "punctuation"
+    },
+    {
+      "layer": 21,
+      "local": 5065,
+      "role": "",
+      "infl": 0.11,
+      "cat": "medical",
+      "trig": [],
+      "display_label": "enzyme"
+    },
+    {
+      "layer": 17,
+      "local": 4081,
+      "role": "",
+      "infl": 0.108,
+      "cat": "format",
+      "trig": [],
+      "display_label": "punctuation"
+    },
+    {
+      "layer": 17,
+      "local": 5124,
+      "role": "",
+      "infl": 0.107,
+      "cat": "other",
+      "trig": [],
+      "display_label": "names"
+    },
+    {
+      "layer": 21,
+      "local": 5790,
+      "role": "",
+      "infl": 0.106,
+      "cat": "other",
+      "trig": [],
+      "display_label": "names"
+    },
+    {
+      "layer": 0,
+      "local": 7931,
+      "role": "",
+      "infl": 0.105,
+      "cat": "other",
+      "trig": [],
+      "display_label": "names"
+    },
+    {
+      "layer": 19,
+      "local": 2778,
+      "role": "",
+      "infl": 0.103,
+      "cat": "other",
+      "trig": [],
+      "display_label": "names"
+    }
+  ]
+}

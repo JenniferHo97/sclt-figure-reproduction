@@ -1,0 +1,82 @@
+{
+  "gemma2_rep": {
+    "reliability": 0.2354,
+    "generalization": 0.3065,
+    "robustness": 0.2169
+  },
+  "qwen08_rep": {
+    "reliability": 0.2804,
+    "generalization": 0.3737,
+    "robustness": 0.2804
+  },
+  "olmo_base": {
+    "reliability": 0.2778,
+    "generalization": 0.2715,
+    "robustness": 0.2698
+  },
+  "gemma2_base": {
+    "reliability": 0.2407,
+    "generalization": 0.3575,
+    "robustness": 0.1032
+  },
+  "qwen08_base": {
+    "reliability": 0.3016,
+    "generalization": 0.3414,
+    "robustness": 0.3651
+  },
+  "r1_rep": {
+    "reliability": 0.2751,
+    "generalization": 0.328,
+    "robustness": 0.3095
+  },
+  "gemma3_rep": {
+    "reliability": 0.0026,
+    "generalization": 0.0,
+    "robustness": 0.0159
+  },
+  "q2b_rep": {
+    "reliability": 0.3069,
+    "generalization": 0.3441,
+    "robustness": 0.328
+  },
+  "q2i_rep": {
+    "reliability": 0.3254,
+    "generalization": 0.4113,
+    "robustness": 0.1481
+  },
+  "r1_base": {
+    "reliability": 0.2011,
+    "generalization": 0.2473,
+    "robustness": 0.1825
+  },
+  "olmo_rep": {
+    "reliability": 0.3069,
+    "generalization": 0.3011,
+    "robustness": 0.2937
+  },
+  "gemma3_base": {
+    "reliability": 0.2434,
+    "generalization": 0.1774,
+    "robustness": 0.3598
+  },
+  "q2b_base": {
+    "reliability": 0.2725,
+    "generalization": 0.4355,
+    "robustness": 0.0873
+  },
+  "q2i_base": {
+    "reliability": 0.2778,
+    "generalization": 0.4274,
+    "robustness": 0.0344
+  },
+  "phi4_base": {
+    "reliability": 0.2698,
+    "generalization": 0.1613,
+    "robustness": 0.1931
+  },
+  "phi4_rep": {
+    "reliability": 0.2302,
+    "generalization": 0.4059,
+    "robustness": 0.0317
+  }
+}

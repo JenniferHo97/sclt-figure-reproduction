@@ -1,0 +1,188 @@
+{
+  "schema": "public-figure-source-map-v1",
+  "scope": "Numerical plotting inputs and renderer adaptations; no model experiment replay.",
+  "files": [
+    {
+      "source_id": "sclt-share/figures/make_fig1b.py",
+      "archived_sha256": "4bdae865591e5235f764a840395c4ebec4e7325a95076e055748462731d6178e",
+      "public_file": "scripts/renderers/make_fig1b.py",
+      "public_sha256": "acb35424afbe2735f37a282fa3dc248f01f5d5d0ee8b64edf0a8bfb6567def66",
+      "adaptation": "Plotting logic retained; input paths made relative; private comments removed; see README."
+    },
+    {
+      "source_id": "sclt-share/figures/make_fig_clt_multi.py",
+      "archived_sha256": "f3f88dec741759266e1d0c9f516b03bafb7fa1ff15763c6fbaf33ff62df261c3",
+      "public_file": "scripts/renderers/make_fig_clt_multi.py",
+      "public_sha256": "4a14deca5bc7233f5805f5a31576809833d6476a0a7c7aecca654175f08775a0",
+      "adaptation": "Plotting logic retained; input paths made relative; private comments removed; see README."
+    },
+    {
+      "source_id": "sclt-share/figures/make_fig_causal.py",
+      "archived_sha256": "a6571274ab56b6e98891781f82b517953a73f4fcf40dc8cda4d53366d876703b",
+      "public_file": "scripts/renderers/make_fig_causal.py",
+      "public_sha256": "f72b5858e3fc1d1539776f98b3115dc24f465097864f77ec6918fe38ae52f91b",
+      "adaptation": "Plotting logic retained; input paths made relative; private comments removed; see README."
+    },
+    {
+      "source_id": "sclt-share/figures/make_fig_repair.py",
+      "archived_sha256": "af0accc04f8dc07994506c062866705ee306ed61b76a72b56640a7d5b813f291",
+      "public_file": "scripts/renderers/make_fig_repair.py",
+      "public_sha256": "af0accc04f8dc07994506c062866705ee306ed61b76a72b56640a7d5b813f291",
+      "adaptation": "Plotting logic retained; input paths made relative; private comments removed; see README."
+    },
+    {
+      "source_id": "sclt-share/figures/make_fig_validation.py",
+      "archived_sha256": "d6546e49804c95bded219ef8d56412ad85fa179f96523cdcd715c74cde6618f3",
+      "public_file": "scripts/renderers/make_fig_validation.py",
+      "public_sha256": "027bf0b4044ebf8fe3290f2a59250bbb527ad04b2805ead1c56b56a4d1ccc2c3",
+      "adaptation": "Plotting logic retained; input paths made relative; private comments removed; see README."
+    },
+    {
+      "source_id": "sclt-share/figures/make_fig_dissociation.py",
+      "archived_sha256": "02133eba91a4583a6f10e0f1046e158b967f3b6d6dd1b3658ea2edc1cbb61777",
+      "public_file": "scripts/renderers/make_fig_dissociation.py",
+      "public_sha256": "2643c6e44d0c5fb849f9f5b602ccdc60d83a41298b73b72ae509a9a4f24248f5",
+      "adaptation": "Plotting logic retained; input paths made relative; private comments removed; see README."
+    },
+    {
+      "source_id": "sclt-share/figures/make_fig_reach.py",
+      "archived_sha256": "21aab99e72e716d1d13074bbd56fe372d4d598349b01e7cb49df3254eed8874d",
+      "public_file": "scripts/renderers/make_fig_reach.py",
+      "public_sha256": "84e3c43f65e55bbfa1d5ee3201347f162865a4dee3645612e02c134cecf5fed9",
+      "adaptation": "Plotting logic retained; input paths made relative; private comments removed; see README."
+    },
+    {
+      "source_id": "sclt-share/figures/make_fig_efficiency.py",
+      "archived_sha256": "911529224dcbbae9774cc981cd6da2e7f4a998c8fe8eed4bd134d51aae309794",
+      "public_file": "scripts/renderers/make_fig_efficiency.py",
+      "public_sha256": "e385031a6f3e04ea3e9e659ac5d91aac7494d06d5828e6f8d69ad1b0544387ff",
+      "adaptation": "Plotting logic retained; input paths made relative; private comments removed; see README."
+    },
+    {
+      "source_id": "sclt-share/figures/make_fig_pubmedqa.py",
+      "archived_sha256": "403f88300a8fadcefc27338daf51ec65a3b5796c93cac54f49f9a2306e85b85b",
+      "public_file": "scripts/renderers/make_fig_pubmedqa.py",
+      "public_sha256": "857a005a7c3ddb7583abd03beefe441c217eb96f5fbbc8dc1d49044041f3a816",
+      "adaptation": "Plotting logic retained; input paths made relative; private comments removed; see README."
+    },
+    {
+      "source_id": "sclt-share/figures/make_fig_mededit.py",
+      "archived_sha256": "5712397bf6909c64a9c346a2a0459d40409ec3cba6504d50ca9405a650a55e1c",
+      "public_file": "scripts/renderers/make_fig_mededit.py",
+      "public_sha256": "a6ab9abc258225c7c00162d30b183b453b6e77178ed188872200f547a9f2f541",
+      "adaptation": "Plotting logic retained; input paths made relative; private comments removed; see README."
+    },
+    {
+      "source_id": "sclt-share/figures/publication_style.py",
+      "archived_sha256": "1bbeb14b3044a507934e05a5bd7efb959c3310e3eab82035f6c0f9f8cbf50079",
+      "public_file": "scripts/renderers/publication_style.py",
+      "public_sha256": "9483becd8625ce3ae4119c44f256155c7ee131628f25e13df6b78d63de6635c0",
+      "adaptation": "Plotting logic retained; input paths made relative; private comments removed; see README."
+    },
+    {
+      "source_id": "sclt-share/figures/publication_style_ed_archived.py",
+      "archived_sha256": "ac3dae4c1e033ac01c68f45479564d5757030a22dc12f09e58f08d1d1b90c43e",
+      "public_file": "scripts/renderers/publication_style_ed_archived.py",
+      "public_sha256": "55b03d31d4c48687c9b6cbecd201e7978fe2a36f2a4fbc88eb449482265069f3",
+      "adaptation": "Plotting logic retained; input paths made relative; private comments removed; see README."
+    },
+    {
+      "source_id": "outputs/figure2-r72-compact-medical-20261027/evidence/four_node_figure_data.json",
+      "archived_sha256": "6e5411c3506d3d3d3455ef2a8141ef691bbc3b0b5db1031cc8b49ab316ace486",
+      "public_file": "data/figure2_graph.json",
+      "public_sha256": "b8e0529513506a92be440f3e02184f14759aeadb7e59ecabc12a7199054cd948",
+      "adaptation": "Only fields actually drawn; all 222 embeddings kept, token IDs/text removed and embedding IDs renamed by position. Edge weights and feature IDs unchanged."
+    },
+    {
+      "source_id": "outputs/round73-qwen2-0857-native-20261027/figures/main_panel_data.json",
+      "archived_sha256": "c09a600e3e54c9e1d30db1db502c1ce6a0938f4235b9bd8cb31351a841d4a8a4",
+      "public_file": "data/figure2_native_response.json",
+      "public_sha256": "554e50155d2b4a6d3a0894b12c41ab60b0921ff08bbd14bfe82637b3e67eab2b",
+      "adaptation": "Plot arrays retained; no teacher-forced input IDs or internal paths."
+    },
+    {
+      "source_id": "outputs/figure2-horizontal-20261027/draw_horizontal.py",
+      "archived_sha256": "9163b7f4e099339dfd363ca88769181568693beeec6fe679bd3efb7a25cda03a",
+      "public_file": "scripts/renderers/draw_figure2.py",
+      "public_sha256": "2c6c2269289ee0eaa103d09ad88f096a2f5aca88565a474575a8a9df39d16cb7",
+      "adaptation": "Plotting logic retained; input paths made relative; private comments removed; see README."
+    },
+    {
+      "source_id": "sclt-share/figures/q0005_feature_labels_cat.json",
+      "archived_sha256": "108555f8bd396c75503ad7c24f69488b1651d3f8e87ad5ca8c976c9f057891de",
+      "public_file": "data/q0005_feature_labels_cat.json",
+      "public_sha256": "003935413c6407ccb3a59c04018d16eff8138737243d08e4d68d9b08e25d2369",
+      "adaptation": "Categories/influences retained; only displayed labels retained, training activation snippets removed."
+    },
+    {
+      "source_id": "sclt-share/figures/q0005_base_graph.json",
+      "archived_sha256": "a911381eab0758d2e4bc6b6bc6a737bc9ac2d4d031027bef4abdc9d7fc159b0b",
+      "public_file": "data/q0005_base_graph.json",
+      "public_sha256": "9004c19c98e7b29c87be2a5f7171526b2867a028c9a7cc3a4a0e458510a5e369",
+      "adaptation": "Only feature/output node identity and measured edges; complete prompt, tokens, activation text and metadata omitted."
+    },
+    {
+      "source_id": "sclt-share/figures/q0005_after_graph.json",
+      "archived_sha256": "eef219b0899497ddddf2d223987c665cf74887e4536db0ea42dc39b724dd4e9a",
+      "public_file": "data/q0005_after_graph.json",
+      "public_sha256": "f491138654388061017d4d4bfd3502f87b48468848c3a803b7a169a458297e28",
+      "adaptation": "Only feature/output node identity and measured edges; complete prompt, tokens, activation text and metadata omitted."
+    },
+    {
+      "source_id": "sclt-share/figures/clt_results.json",
+      "archived_sha256": "bc765b38b25dc12c88e77e54626563548b1700254997b3483c68a761d0783170",
+      "public_file": "data/clt_results.json",
+      "public_sha256": "b61b4996bdc791e20dc2ae8f311d064dcddb0f781eda3735bc3feddf253cfe29",
+      "adaptation": "Numerical plotting inputs; unused private directory/audit filenames removed where present."
+    },
+    {
+      "source_id": "sclt-share/figures/causal_all.json",
+      "archived_sha256": "14a6bf506d478b7d1725ee0580f180fc54d64bfb2748850f6329f45e81844308",
+      "public_file": "data/causal_all.json",
+      "public_sha256": "922ebf5171ce1ed9f15346f80ddd91a14d7f9475738c9544719a76dc07930082",
+      "adaptation": "Numerical plotting inputs; unused private directory/audit filenames removed where present."
+    },
+    {
+      "source_id": "sclt-share/figures/mededit_summary.json",
+      "archived_sha256": "18c5f6dcf99a0cb552fae53e99ca23e2083602e02fe9de1e318a27d1deca7a24",
+      "public_file": "data/mededit_summary.json",
+      "public_sha256": "96c1579670a9fd5b377919f62738e9fbd568942c408059194051fb9ac3c39e87",
+      "adaptation": "Numerical plotting inputs; unused private directory/audit filenames removed where present."
+    },
+    {
+      "source_id": "sclt-share/figures/validation_results.json",
+      "archived_sha256": "23a2e55a6da2b3e2cc547c24729a21536a571398dddb70a369c8473c7ed7518a",
+      "public_file": "data/validation_results.json",
+      "public_sha256": "891796cf6eb6df9d5c5ef70cb7ff41e9b3f85c2ac0d182853922fc1e2501f8db",
+      "adaptation": "Numerical plotting inputs; unused private directory/audit filenames removed where present."
+    },
+    {
+      "source_id": "outputs/figure6-complete-controls-20261029/analysis/plot_data.json",
+      "archived_sha256": "864ecaf00a6314be2b4534e04cbf458cddf008cf4c3d1195a05c172e5a263271",
+      "public_file": "data/figure6_plot_data.json",
+      "public_sha256": "ea7e59155b228ee0846fb554d7d6f2b9eed52f5649b7557063d1007f23a54c0e",
+      "adaptation": "Exact plot arrays and run values; unrelated historical metadata excluded."
+    },
+    {
+      "source_id": "outputs/figure6-complete-controls-20261029/analysis/ft_plot_reference.json",
+      "archived_sha256": "0fccc7f295cc3f6cc7fe13dbaf706faaf28c0b1d9a12caccab6afe5b87e72b76",
+      "public_file": "data/figure6_reference.json",
+      "public_sha256": "53564e98784c015e68b5ff9c57b899951b2feb216f132d4810a7cc947951a987",
+      "adaptation": "Original style, d/e values and model order only."
+    },
+    {
+      "source_id": "sclt-share/figures/repair_figure_equal_layout.py",
+      "archived_sha256": "3b24141aecaec2a1b8c50bdee9ac3285eed83b50bbbc276bc4f4d226ab84fdd8",
+      "public_file": "scripts/renderers/repair_figure_equal_layout.py",
+      "public_sha256": "10089901a3c6de67bb346c62bc67575350ef29020c64a9a0c4f28cbc1fd977d9",
+      "adaptation": "Plotting logic retained; input paths made relative; private comments removed; see README."
+    },
+    {
+      "source_id": "sclt-share/figures/repair_figure_layout.py",
+      "archived_sha256": "e3e3f5a2653c414c9660aeb8bb95bea3d736798e7a479c438af0aa25865d261c",
+      "public_file": "scripts/renderers/repair_figure_layout.py",
+      "public_sha256": "c1ff92e3fb70304e48bb223ccbb4e130e6572f0f15aa6705984f122319f66582",
+      "adaptation": "Plotting logic retained; input paths made relative; private comments removed; see README."
+    }
+  ]
+}

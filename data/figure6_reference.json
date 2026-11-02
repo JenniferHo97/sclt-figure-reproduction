@@ -1,0 +1,99 @@
+{
+  "model_order": [
+    "Qwen-0.8B",
+    "Qwen-2B-Base",
+    "Qwen-2B-Inst",
+    "R1-Distill-1.5B",
+    "Gemma-2-2B",
+    "Gemma-3-1B",
+    "OLMo-2-1B",
+    "Phi-4-mini"
+  ],
+  "methods": {
+    "ours": {
+      "label": "sCLT-guided LoRA",
+      "color": "#009F86",
+      "hatch": ""
+    },
+    "all": {
+      "label": "All-layer LoRA",
+      "color": "#E54C34",
+      "hatch": ""
+    },
+    "random": {
+      "label": "Random-layer LoRA",
+      "color": "#4DB7D4",
+      "hatch": ""
+    },
+    "sft": {
+      "label": "Full-parameter FT",
+      "color": "#9F5CC0",
+      "hatch": ""
+    },
+    "base": {
+      "label": "Unedited",
+      "color": "#BDBDBD",
+      "hatch": ""
+    }
+  },
+  "seed_points_unchanged": [
+    {
+      "model": "Qwen-0.8B",
+      "mean": 84.3,
+      "sd": 0.8,
+      "best": 85.0
+    },
+    {
+      "model": "Qwen-2B-Base",
+      "mean": 90.7,
+      "sd": 2.3,
+      "best": 93.0
+    },
+    {
+      "model": "Qwen-2B-Inst",
+      "mean": 88.2,
+      "sd": 1.0,
+      "best": 89.0
+    },
+    {
+      "model": "R1-Distill-1.5B",
+      "mean": 65.0,
+      "sd": 2.6,
+      "best": 67.0
+    },
+    {
+      "model": "Gemma-2-2B",
+      "mean": 74.5,
+      "sd": 6.1,
+      "best": 78.0
+    },
+    {
+      "model": "Gemma-3-1B",
+      "mean": 37.3,
+      "sd": 1.2,
+      "best": 38.0
+    },
+    {
+      "model": "OLMo-2-1B",
+      "mean": 53.2,
+      "sd": 1.9,
+      "best": 54.5
+    },
+    {
+      "model": "Phi-4-mini",
+      "mean": 78.7,
+      "sd": 1.0,
+      "best": 79.5
+    }
+  ],
+  "parameter_percent_unchanged": {
+    "Qwen-0.8B": 0.073728,
+    "Qwen-2B-Base": 0.098304,
+    "Qwen-2B-Inst": 0.0589824,
+    "R1-Distill-1.5B": 0.0671744,
+    "Gemma-2-2B": 0.042535384615384614,
+    "Gemma-3-1B": 0.1548288,
+    "OLMo-2-1B": 0.196608,
+    "Phi-4-mini": 0.012934736842105263
+  }
+}

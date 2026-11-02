@@ -1,0 +1,93 @@
+{
+  "status": "PASS_ALL_FROZEN_REFERENCE_COMPARISONS",
+  "date_local": "2026-11-02",
+  "environment": {
+    "Python": "3.13.11",
+    "OS": "Windows",
+    "numpy": "2.4.4",
+    "matplotlib": "3.10.8",
+    "scipy": "1.17.1",
+    "PyMuPDF": "1.27.2.2"
+  },
+  "automatic_renderers_completed": 11,
+  "preserved_manual_references": 1,
+  "comparisons": [
+    {
+      "figure": "1",
+      "criterion": "exact PNG SHA256",
+      "match": true
+    },
+    {
+      "figure": "ED1",
+      "criterion": "exact PNG SHA256",
+      "match": true
+    },
+    {
+      "figure": "ED2",
+      "criterion": "exact PNG SHA256",
+      "match": true
+    },
+    {
+      "figure": "ED3",
+      "criterion": "exact PNG SHA256",
+      "match": true
+    },
+    {
+      "figure": "ED4",
+      "criterion": "exact PNG SHA256",
+      "match": true
+    },
+    {
+      "figure": "ED5",
+      "criterion": "exact PNG SHA256",
+      "match": true
+    },
+    {
+      "figure": "ED6",
+      "criterion": "exact PNG SHA256",
+      "match": true
+    },
+    {
+      "figure": "2",
+      "criterion": "PDF rendered pixels at 144 dpi",
+      "match": true
+    },
+    {
+      "figure": "3",
+      "criterion": "PDF rendered pixels at 144 dpi",
+      "match": true
+    },
+    {
+      "figure": "4",
+      "criterion": "PDF rendered pixels at 144 dpi",
+      "match": true
+    },
+    {
+      "figure": "5",
+      "criterion": "PDF rendered pixels at 144 dpi",
+      "match": true
+    },
+    {
+      "figure": "6",
+      "criterion": "PDF rendered pixels at 144 dpi",
+      "match": true
+    }
+  ],
+  "numerical_validation": {
+    "status": "PASS",
+    "plot_files": 41,
+    "figure6_run_values": 576,
+    "figure6_mean_sd_groups": 192,
+    "figure6_plotted_series_checked": 96,
+    "dependencies": {
+      "numpy": true,
+      "matplotlib": true,
+      "scipy": true,
+      "fitz": true
+    }
+  },
+  "model_or_GPU_or_API_calls": 0,
+  "installation_scope": "Existing pinned environment; isolated standalone file copy. Fresh dependency installation was not exercised.",
+  "typography_scope": "Original installed fonts on Windows; other environments may differ in typography while plotting the same numbers.",
+  "source_scope": "All full question text and original input token IDs were excluded from the plotting payload. Numerical and drawn-edge values preserved."
+}

@@ -1,0 +1,281 @@
+{
+  "nodes": [
+    {
+      "node_id": "0_2073_93",
+      "feature_type": "cross layer transcoder",
+      "layer": "0"
+    },
+    {
+      "node_id": "22_121_93",
+      "feature_type": "cross layer transcoder",
+      "layer": "22"
+    },
+    {
+      "node_id": "22_1103_93",
+      "feature_type": "cross layer transcoder",
+      "layer": "22"
+    },
+    {
+      "node_id": "18_2436_93",
+      "feature_type": "cross layer transcoder",
+      "layer": "18"
+    },
+    {
+      "node_id": "17_6537_93",
+      "feature_type": "cross layer transcoder",
+      "layer": "17"
+    },
+    {
+      "node_id": "15_50_93",
+      "feature_type": "cross layer transcoder",
+      "layer": "15"
+    },
+    {
+      "node_id": "23_1039_93",
+      "feature_type": "cross layer transcoder",
+      "layer": "23"
+    },
+    {
+      "node_id": "21_5890_93",
+      "feature_type": "cross layer transcoder",
+      "layer": "21"
+    },
+    {
+      "node_id": "0_3880_93",
+      "feature_type": "cross layer transcoder",
+      "layer": "0"
+    },
+    {
+      "node_id": "2_3091_93",
+      "feature_type": "cross layer transcoder",
+      "layer": "2"
+    },
+    {
+      "node_id": "23_644_93",
+      "feature_type": "cross layer transcoder",
+      "layer": "23"
+    },
+    {
+      "node_id": "20_5032_93",
+      "feature_type": "cross layer transcoder",
+      "layer": "20"
+    },
+    {
+      "node_id": "21_7213_93",
+      "feature_type": "cross layer transcoder",
+      "layer": "21"
+    },
+    {
+      "node_id": "19_7170_93",
+      "feature_type": "cross layer transcoder",
+      "layer": "19"
+    },
+    {
+      "node_id": "4_2614_93",
+      "feature_type": "cross layer transcoder",
+      "layer": "4"
+    },
+    {
+      "node_id": "19_2778_93",
+      "feature_type": "cross layer transcoder",
+      "layer": "19"
+    },
+    {
+      "node_id": "23_1190_93",
+      "feature_type": "cross layer transcoder",
+      "layer": "23"
+    },
+    {
+      "node_id": "16_6070_93",
+      "feature_type": "cross layer transcoder",
+      "layer": "16"
+    },
+    {
+      "node_id": "23_871_93",
+      "feature_type": "cross layer transcoder",
+      "layer": "23"
+    },
+    {
+      "node_id": "23_128_93",
+      "feature_type": "cross layer transcoder",
+      "layer": "23"
+    },
+    {
+      "node_id": "0_1191_93",
+      "feature_type": "cross layer transcoder",
+      "layer": "0"
+    },
+    {
+      "node_id": "21_7611_93",
+      "feature_type": "cross layer transcoder",
+      "layer": "21"
+    },
+    {
+      "node_id": "23_1344_93",
+      "feature_type": "cross layer transcoder",
+      "layer": "23"
+    },
+    {
+      "node_id": "21_2297_93",
+      "feature_type": "cross layer transcoder",
+      "layer": "21"
+    },
+    {
+      "node_id": "0_5867_93",
+      "feature_type": "cross layer transcoder",
+      "layer": "0"
+    },
+    {
+      "node_id": "23_1076_93",
+      "feature_type": "cross layer transcoder",
+      "layer": "23"
+    },
+    {
+      "node_id": "23_29_93",
+      "feature_type": "cross layer transcoder",
+      "layer": "23"
+    },
+    {
+      "node_id": "13_4924_93",
+      "feature_type": "cross layer transcoder",
+      "layer": "13"
+    },
+    {
+      "node_id": "22_961_93",
+      "feature_type": "cross layer transcoder",
+      "layer": "22"
+    },
+    {
+      "node_id": "23_494_93",
+      "feature_type": "cross layer transcoder",
+      "layer": "23"
+    },
+    {
+      "node_id": "17_4081_93",
+      "feature_type": "cross layer transcoder",
+      "layer": "17"
+    },
+    {
+      "node_id": "16_493_93",
+      "feature_type": "cross layer transcoder",
+      "layer": "16"
+    },
+    {
+      "node_id": "15_6103_93",
+      "feature_type": "cross layer transcoder",
+      "layer": "15"
+    },
+    {
+      "node_id": "21_6548_93",
+      "feature_type": "cross layer transcoder",
+      "layer": "21"
+    },
+    {
+      "node_id": "0_7931_93",
+      "feature_type": "cross layer transcoder",
+      "layer": "0"
+    },
+    {
+      "node_id": "23_1272_93",
+      "feature_type": "cross layer transcoder",
+      "layer": "23"
+    },
+    {
+      "node_id": "23_1241_93",
+      "feature_type": "cross layer transcoder",
+      "layer": "23"
+    },
+    {
+      "node_id": "15_5046_93",
+      "feature_type": "cross layer transcoder",
+      "layer": "15"
+    },
+    {
+      "node_id": "23_624_93",
+      "feature_type": "cross layer transcoder",
+      "layer": "23"
+    },
+    {
+      "node_id": "0_1367_93",
+      "feature_type": "cross layer transcoder",
+      "layer": "0"
+    },
+    {
+      "node_id": "22_155_93",
+      "feature_type": "cross layer transcoder",
+      "layer": "22"
+    },
+    {
+      "node_id": "21_1592_93",
+      "feature_type": "cross layer transcoder",
+      "layer": "21"
+    },
+    {
+      "node_id": "1_6065_93",
+      "feature_type": "cross layer transcoder",
+      "layer": "1"
+    },
+    {
+      "node_id": "14_435_93",
+      "feature_type": "cross layer transcoder",
+      "layer": "14"
+    },
+    {
+      "node_id": "20_491_93",
+      "feature_type": "cross layer transcoder",
+      "layer": "20"
+    },
+    {
+      "node_id": "16_2826_93",
+      "feature_type": "cross layer transcoder",
+      "layer": "16"
+    },
+    {
+      "node_id": "L_357-93",
+      "feature_type": "logit",
+      "clerp": "output \"A\""
+    },
+    {
+      "node_id": "L_417-93",
+      "feature_type": "logit",
+      "clerp": "output \"B\""
+    },
+    {
+      "node_id": "L_351-93",
+      "feature_type": "logit",
+      "clerp": "output \"C\""
+    },
+    {
+      "node_id": "L_414-93",
+      "feature_type": "logit",
+      "clerp": "output \"D\""
+    }
+  ],
+  "links": [
+    {
+      "source": "0_2073_93",
+      "target": "L_357-93",
+      "weight": 0.08965516090393066
+    },
+    {
+      "source": "0_2073_93",
+      "target": "L_417-93",
+      "weight": 0.06498098373413086
+    },
+    {
+      "source": "0_2073_93",
+      "target": "L_351-93",
+      "weight": 0.05146312713623047
+    },
+    {
+      "source": "0_2073_93",
+      "target": "L_414-93",
+      "weight": 0.0818185806274414
+    },
+    {
+      "source": "22_121_93",
+      "target": "L_357-93",
+      "weight": -0.0601654052734375
+    }
+  ]
+}
